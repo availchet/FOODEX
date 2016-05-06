@@ -1,4 +1,10 @@
 # FOODEX
 It is a canteen management system.
-web-based app, to be updated...
+It was made by Our team in a Hackathon at IIT-D, hosted by HackerEarth Vortex.
+Web-based app, to be updated...
 
+# Contributors
+1. Chetanya Kandhari
+2. Mohd. Sohail
+3. Himani Kansal
+4. Ankita Aggarwal
