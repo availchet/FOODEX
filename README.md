@@ -12,6 +12,11 @@ Bill Generation
 Product Search (with auto-complete and auto-correct)
 Help Desk
 ```
+##Technology Used
+- JQuery
+- Bootstrap
+- PHP
+
 ##Our Team
 1. Chetanya Kandhari
 2. Mohd. Sohail
