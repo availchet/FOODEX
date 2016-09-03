@@ -18,7 +18,7 @@ Help Desk
 - PHP
 
 ##Our Team
-1. Chetanya Kandhari
+1. Himani Kansal
 2. Mohd. Sohail
-3. Himani Kansal
+3. Chetanya Kandhari
 4. Ankita Aggarwal
